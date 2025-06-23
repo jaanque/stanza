@@ -112,14 +112,14 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: '#333',
     marginBottom: 10,
-    fontFamily: 'Inter-Bold', // Assuming Inter font is available
+    // fontFamily: 'Inter-Bold', // Temporarily removed
   },
   subtitle: {
     fontSize: 16,
     color: '#555',
     marginBottom: 30,
     textAlign: 'center',
-    fontFamily: 'Inter-Regular',
+    // fontFamily: 'Inter-Regular', // Temporarily removed
   },
   input: {
     width: '100%',
@@ -131,12 +131,12 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     fontSize: 16,
     backgroundColor: '#FFF',
-    fontFamily: 'Inter-Regular',
+    // fontFamily: 'Inter-Regular', // Temporarily removed
   },
   errorText: {
     color: '#F44336',
     marginBottom: 10,
-    fontFamily: 'Inter-Regular',
+    // fontFamily: 'Inter-Regular', // Temporarily removed
   },
 });
 
